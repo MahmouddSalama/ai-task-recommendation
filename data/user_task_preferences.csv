@@ -1,0 +1,101 @@
+Task Type,Field,Difficulty,Current Skills,Skills to Learn,Available Time per Day (hrs),Suggested Task
+Administrative,Healthcare,Hard,Photoshop,"Communication, Google Ads",5,Design Marketing Posters
+Volunteer,Design,Medium,"Data Analysis, Python, Google Ads",Data Analysis,7,Optimize Ad Campaigns
+Creative,Design,Medium,"Excel, Communication","Communication, Team Management",7,General Assistant Task
+Volunteer,Marketing,Hard,"Photoshop, Communication, Google Ads","Photoshop, Communication",6,Design Marketing Posters
+Volunteer,Research,Easy,"Team Management, Python",Photoshop,5,Statistical Report Automation
+Creative,Research,Hard,Excel,"Photoshop, Data Analysis",2,General Assistant Task
+Technical,Healthcare,Easy,"Excel, Google Ads, Communication","Excel, Team Management",4,Optimize Ad Campaigns
+Team-based,Design,Hard,Excel,"Photoshop, Excel",5,General Assistant Task
+Team-based,Research,Medium,"Photoshop, Python",Google Ads,5,Statistical Report Automation
+Individual,Research,Easy,"Team Management, Communication, Photoshop","Communication, Google Ads",2,Design Marketing Posters
+Individual,Research,Medium,"Python, Google Ads",Communication,1,Statistical Report Automation
+Volunteer,Education,Medium,"Team Management, Excel",Python,3,Coordinate Team Project
+Creative,Education,Medium,"Excel, Communication, Google Ads","Data Analysis, Excel",5,Optimize Ad Campaigns
+Individual,Design,Hard,"Communication, Google Ads","Excel, Google Ads",6,Optimize Ad Campaigns
+Administrative,Marketing,Medium,"Python, Excel, Photoshop",Team Management,5,Design Marketing Posters
+Creative,Design,Easy,"Python, Data Analysis, Photoshop","Excel, Google Ads",5,Design Marketing Posters
+Administrative,Healthcare,Easy,"Python, Communication, Data Analysis","Photoshop, Excel",3,General Assistant Task
+Technical,Education,Hard,"Data Analysis, Python","Communication, Team Management",8,General Assistant Task
+Creative,Programming,Easy,"Python, Excel, Google Ads",Google Ads,7,Data Cleaning Script
+Volunteer,Marketing,Medium,Data Analysis,"Photoshop, Team Management",3,Community Awareness Campaign
+Creative,Education,Easy,"Excel, Data Analysis, Google Ads","Team Management, Python",4,Optimize Ad Campaigns
+Volunteer,Education,Easy,"Python, Photoshop","Data Analysis, Google Ads",6,Design Marketing Posters
+Individual,Design,Easy,"Data Analysis, Team Management, Photoshop",Google Ads,8,Design Marketing Posters
+Technical,Programming,Medium,Python,Team Management,2,Data Cleaning Script
+Technical,Programming,Medium,"Data Analysis, Python, Team Management","Data Analysis, Python",7,Data Cleaning Script
+Team-based,Programming,Hard,"Communication, Excel, Python","Photoshop, Communication",7,Data Cleaning Script
+Individual,Education,Easy,"Google Ads, Excel, Communication",Excel,4,Optimize Ad Campaigns
+Volunteer,Healthcare,Hard,"Python, Excel","Communication, Data Analysis",2,Community Awareness Campaign
+Administrative,Education,Hard,"Excel, Photoshop","Data Analysis, Python",6,Design Marketing Posters
+Volunteer,Education,Easy,"Google Ads, Team Management, Python",Communication,3,Coordinate Team Project
+Volunteer,Healthcare,Easy,"Python, Excel, Communication",Team Management,1,Community Awareness Campaign
+Team-based,Programming,Hard,"Team Management, Communication, Excel",Team Management,7,Coordinate Team Project
+Individual,Programming,Medium,"Communication, Data Analysis, Team Management",Photoshop,1,Data Cleaning Script
+Administrative,Marketing,Hard,Communication,Excel,3,General Assistant Task
+Administrative,Marketing,Hard,Team Management,Python,2,Coordinate Team Project
+Individual,Research,Hard,"Data Analysis, Photoshop","Python, Team Management",1,Statistical Report Automation
+Individual,Marketing,Easy,"Excel, Photoshop, Team Management",Google Ads,6,Design Marketing Posters
+Volunteer,Marketing,Easy,"Python, Google Ads, Communication",Excel,1,Optimize Ad Campaigns
+Creative,Marketing,Medium,Photoshop,Python,6,Design Marketing Posters
+Volunteer,Research,Medium,Data Analysis,Communication,5,Statistical Report Automation
+Creative,Design,Easy,Data Analysis,"Communication, Excel",5,General Assistant Task
+Volunteer,Design,Easy,"Excel, Photoshop, Team Management","Team Management, Excel",1,Design Marketing Posters
+Technical,Design,Medium,"Data Analysis, Photoshop","Communication, Python",8,Design Marketing Posters
+Individual,Healthcare,Medium,"Python, Excel, Communication","Google Ads, Data Analysis",7,General Assistant Task
+Creative,Research,Easy,Excel,"Python, Team Management",4,General Assistant Task
+Technical,Design,Medium,Excel,Photoshop,3,General Assistant Task
+Volunteer,Design,Easy,Python,Python,4,Community Awareness Campaign
+Creative,Healthcare,Medium,"Photoshop, Excel, Google Ads","Data Analysis, Communication",5,Design Marketing Posters
+Team-based,Healthcare,Hard,"Excel, Data Analysis, Photoshop","Data Analysis, Communication",2,Design Marketing Posters
+Volunteer,Healthcare,Hard,"Team Management, Photoshop","Data Analysis, Photoshop",4,Design Marketing Posters
+Technical,Design,Hard,Data Analysis,Data Analysis,2,General Assistant Task
+Creative,Marketing,Medium,"Excel, Google Ads","Excel, Communication",4,Create Marketing Report Dashboard
+Technical,Design,Medium,Photoshop,Communication,6,Design Marketing Posters
+Technical,Healthcare,Hard,"Google Ads, Communication, Excel",Python,2,Optimize Ad Campaigns
+Individual,Marketing,Hard,"Excel, Photoshop, Communication","Photoshop, Python",3,Design Marketing Posters
+Technical,Marketing,Hard,Communication,Google Ads,8,General Assistant Task
+Individual,Research,Hard,"Photoshop, Data Analysis, Google Ads",Team Management,8,Statistical Report Automation
+Creative,Marketing,Hard,"Google Ads, Communication","Google Ads, Photoshop",5,Optimize Ad Campaigns
+Administrative,Design,Medium,Data Analysis,Communication,4,General Assistant Task
+Volunteer,Research,Easy,"Team Management, Communication, Excel",Data Analysis,2,Coordinate Team Project
+Creative,Healthcare,Easy,"Data Analysis, Python, Team Management",Excel,8,Coordinate Team Project
+Technical,Education,Easy,"Excel, Team Management","Python, Photoshop",8,Coordinate Team Project
+Technical,Education,Hard,Data Analysis,"Data Analysis, Excel",1,General Assistant Task
+Technical,Research,Easy,"Google Ads, Communication, Python",Team Management,3,Statistical Report Automation
+Team-based,Research,Medium,"Excel, Data Analysis, Team Management","Communication, Excel",8,Statistical Report Automation
+Volunteer,Healthcare,Easy,"Data Analysis, Team Management, Google Ads",Python,2,Coordinate Team Project
+Administrative,Marketing,Easy,"Photoshop, Team Management",Photoshop,3,Design Marketing Posters
+Team-based,Healthcare,Medium,Excel,Python,2,General Assistant Task
+Volunteer,Design,Medium,Team Management,Python,8,Coordinate Team Project
+Technical,Programming,Easy,Google Ads,Google Ads,2,Optimize Ad Campaigns
+Administrative,Education,Easy,"Python, Communication","Photoshop, Communication",4,Develop Educational Content
+Individual,Healthcare,Medium,Data Analysis,Python,2,General Assistant Task
+Creative,Marketing,Hard,"Communication, Team Management","Python, Google Ads",8,Coordinate Team Project
+Technical,Research,Hard,"Communication, Photoshop, Google Ads",Data Analysis,6,Design Marketing Posters
+Volunteer,Healthcare,Hard,"Google Ads, Python, Photoshop",Data Analysis,8,Design Marketing Posters
+Creative,Programming,Hard,"Communication, Google Ads",Communication,5,Optimize Ad Campaigns
+Creative,Healthcare,Hard,"Communication, Team Management",Communication,1,Coordinate Team Project
+Administrative,Healthcare,Easy,Communication,Communication,1,General Assistant Task
+Creative,Research,Medium,Photoshop,"Data Analysis, Communication",1,Design Marketing Posters
+Administrative,Marketing,Hard,"Photoshop, Python, Google Ads","Data Analysis, Google Ads",6,Design Marketing Posters
+Team-based,Design,Medium,"Google Ads, Excel",Photoshop,6,Optimize Ad Campaigns
+Administrative,Research,Medium,"Data Analysis, Google Ads","Team Management, Python",1,Statistical Report Automation
+Creative,Healthcare,Medium,Photoshop,"Data Analysis, Python",5,Design Marketing Posters
+Technical,Research,Hard,"Excel, Photoshop","Communication, Photoshop",6,Design Marketing Posters
+Creative,Healthcare,Medium,Communication,Google Ads,5,General Assistant Task
+Individual,Design,Easy,Python,"Google Ads, Photoshop",6,General Assistant Task
+Technical,Healthcare,Easy,"Python, Communication, Photoshop",Google Ads,3,Design Marketing Posters
+Technical,Education,Medium,Communication,"Communication, Photoshop",2,Develop Educational Content
+Administrative,Design,Easy,"Excel, Google Ads, Photoshop",Data Analysis,1,Design Marketing Posters
+Volunteer,Design,Hard,Communication,Team Management,2,Community Awareness Campaign
+Individual,Healthcare,Easy,"Communication, Data Analysis, Python","Photoshop, Data Analysis",1,General Assistant Task
+Administrative,Design,Hard,"Excel, Google Ads","Photoshop, Data Analysis",5,Optimize Ad Campaigns
+Individual,Research,Hard,Google Ads,Communication,2,Optimize Ad Campaigns
+Individual,Healthcare,Medium,"Photoshop, Communication, Data Analysis",Python,8,Design Marketing Posters
+Creative,Research,Easy,Photoshop,"Communication, Python",1,Design Marketing Posters
+Team-based,Healthcare,Hard,Python,Python,8,General Assistant Task
+Administrative,Marketing,Medium,"Data Analysis, Team Management, Google Ads","Team Management, Python",5,Coordinate Team Project
+Team-based,Marketing,Medium,"Communication, Google Ads, Data Analysis","Google Ads, Python",8,Optimize Ad Campaigns
+Individual,Education,Hard,Data Analysis,"Google Ads, Excel",8,General Assistant Task
+Creative,Healthcare,Easy,"Data Analysis, Excel","Data Analysis, Team Management",2,General Assistant Task
